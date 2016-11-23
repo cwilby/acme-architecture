@@ -2,6 +2,6 @@
 {
     public interface IDatabaseInitializer
     {
-        void SetInitializer();
+        void Initialize();
     }
 }

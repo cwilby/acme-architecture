@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Acme.Core.Infrastructure
+namespace Acme.Core.Repository
 {
     public interface IRepository<TEntity> where TEntity : class
     {
